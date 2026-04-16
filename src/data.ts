@@ -109,7 +109,7 @@ export const SECTIONS: SectionData[] = [
     { 
       text: 'Radykalna nadzieja. Każdego dnia miliony wolontariuszy, misjonarzy i zwykłych ludzi wybiera pomoc zamiast hejtu. To są momenty, w których dobro przebija się przez zło. „Światło w ciemności świeci i ciemność go nie ogarnęła” (J 1, 5). Dobro nie robi tyle hałasu co zło, ale ma znacznie silniejszy fundament.', 
       icon: Zap },
-    { text: 'Duchowye zmartwychwstanie Europy. Mówili, że to duchowe cmentarzysko, tymczasem we Francji i Belgii mamy rekordowe skoki chrztów dorosłych. „Przyszedłem ogień rzucić na ziemię” (Łk 12, 49) – ten ogień właśnie przeskakuje na nowe pokolenie, którego nie zadowala już pusty konsumpcjonizm.', icon: Flame }
+    { text: 'Duchowe zmartwychwstanie Europy. Mówili, że to duchowe cmentarzysko, tymczasem we Francji i Belgii mamy rekordowe skoki chrztów dorosłych. „Przyszedłem ogień rzucić na ziemię” (Łk 12, 49) – ten ogień właśnie przeskakuje na nowe pokolenie, którego nie zadowala już pusty konsumpcjonizm.', icon: Flame }
   ],
   icon: Zap,
   theme: {
